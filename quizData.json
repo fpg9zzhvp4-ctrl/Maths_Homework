@@ -1,0 +1,104 @@
+{
+  "weeks": {
+    "Week 1": {
+      "timeLimit": 20,
+      "questions": [
+        {
+          "text": "1 + 1",
+          "answer": 2
+        },
+        {
+          "text": "2 + 2",
+          "answer": 4
+        },
+        {
+          "text": "4 + 4",
+          "answer": 8
+        },
+        {
+          "text": "3 + 3",
+          "answer": 6
+        },
+        {
+          "text": "5 + 5",
+          "answer": 10
+        }
+      ]
+    },
+    "Week 2": {
+      "timeLimit": 25,
+      "questions": [
+        {
+          "text": "2 + 2",
+          "answer": 4
+        },
+        {
+          "text": "1 + 1",
+          "answer": 2
+        },
+        {
+          "text": "4 + 4",
+          "answer": 8
+        },
+        {
+          "text": "5 + 5",
+          "answer": 10
+        },
+        {
+          "text": "3 + 3",
+          "answer": 6
+        }
+      ]
+    },
+    "Week 3": {
+      "questions": [
+        {
+          "text": "1 + 1",
+          "answer": 2
+        },
+        {
+          "text": "2 + 2",
+          "answer": 4
+        },
+        {
+          "text": "5 + 5",
+          "answer": 10
+        },
+        {
+          "text": "3 + 3",
+          "answer": 6
+        },
+        {
+          "text": "4 + 4",
+          "answer": 8
+        }
+      ],
+      "timeLimit": 20
+    },
+    "Week 4": {
+      "questions": [
+        {
+          "text": "2 + 2",
+          "answer": 4
+        },
+        {
+          "text": "1 + 1",
+          "answer": 2
+        },
+        {
+          "text": "5 + 5",
+          "answer": 10
+        },
+        {
+          "text": "4 + 4",
+          "answer": 8
+        },
+        {
+          "text": "3 + 3",
+          "answer": 6
+        }
+      ],
+      "timeLimit": 20
+    }
+  }
+}
