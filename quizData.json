@@ -100,14 +100,5 @@
       ],
       "timeLimit": 20
     },
-    "Week Test": {
-      "questions": [
-        {
-          "text": "2 x 6",
-          "answer": 12
-        }
-      ],
-      "timeLimit": 5
-    }
   }
 }
